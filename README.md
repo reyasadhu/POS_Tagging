@@ -41,4 +41,4 @@ In this notebook, we use HMM for part-of-speech tagging, where:
 ## Viterbi Algorithm:
 The Viterbi algorithm is a dynamic programming algorithm used for finding the most likely sequence of hidden states (tags) given a sequence of observed events (words).
 
-For more details on the Viterbi algorithm in part-of-speech tagging, you can refer to this [link]([https://medium.com/analytics-vidhya/parts-of-speech-pos-and-viterbi-algorithm-3a5d54dfb346]).
+For more details on the Viterbi algorithm in part-of-speech tagging, you can refer to this [link](https://medium.com/analytics-vidhya/parts-of-speech-pos-and-viterbi-algorithm-3a5d54dfb346).
